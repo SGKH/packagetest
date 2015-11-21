@@ -1,0 +1,13 @@
+{
+    "name": "hofkens/simple-admin",
+    "description": "A package that provides a simple UI for managing users",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tom Hofkens",
+            "email": "Tom.Hofkens@sji.be"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
